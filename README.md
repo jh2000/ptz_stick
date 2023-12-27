@@ -48,7 +48,6 @@ short micro-usb cable from https://www.amazon.de/dp/B095JZSHXQ
 |Wire                               | 2.0.0  | (Arduino Internal)|
 |LittleFS                           | 2.0.0  | (Arduino Internal)|
 |SPI                                | 2.0.0  | (Arduino Internal)|
-~~|HTTPClient                         | 2.0.0  | (Arduino Internal)|~~
 |WiFiClientSecure                   | 2.0.0  | (Arduino Internal)|
 |FS                                 | 2.0.0  | (Arduino Internal)|
 |Adafruit GFX Library               | 1.11.9 | Arduino\libraries\Adafruit_GFX_Library|
@@ -58,5 +57,6 @@ short micro-usb cable from https://www.amazon.de/dp/B095JZSHXQ
 |NTPClient_Generic                  | 3.7.5  | Arduino\libraries\NTPClient_Generic|
 |Time                               | 1.6.1  | Arduino\libraries\Time|
 |Timezone_Generic                   | 1.10.1 | Arduino\libraries\Timezone_Generic|
-|ArduinoJson                   | 6.21.4 | Arduino\libraries\ArduinoJson||ArduinoMD5                   | git | Arduino\libraries\ArduinoMD5-master|
+|ArduinoJson                        | 6.21.4 | Arduino\libraries\ArduinoJson|
+|ArduinoMD5                         | git    | Arduino\libraries\ArduinoMD5-master|
 
