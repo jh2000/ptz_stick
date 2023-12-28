@@ -29,6 +29,8 @@ An update rate to the server of up to 10 seems to be enough.<br>
 * no additional parts are required, but a few resistors and caps are what you want.
 * almost same small delay/update rate as the monitor application
 
+# What it looks like
+![Screenshot](20231228_130439.jpg)
 # Parts
 AZ-Delivery ESP32-WROOM-32/NodeMCU or similar<br>
 DollaTek 1.8" TFT Display ST7735S from https://www.amazon.de/dp/B07QJVG8QX<br>
